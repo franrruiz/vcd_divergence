@@ -2,7 +2,7 @@
 
 Code to minimize the Variational Contrastive Divergence (VCD)
 
-This code reproduces the experiments in [this paper]() ([arxiv version]()). Please cite the paper as follows if you use the code in this repo.
+This code reproduces the experiments in [this paper]() ([arxiv version](http://arxiv.org/abs/1905.04062)). Please cite the paper as follows if you use the code in this repo.
 
 Francisco J. R. Ruiz and Michalis K. Titsias. *A Contrastive Divergence for Combining Variational Inference and MCMC*. International Conference on Machine Learning (ICML). 2019
 
