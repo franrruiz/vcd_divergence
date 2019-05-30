@@ -1,4 +1,4 @@
-function [z, samples, extraOutputs] = hmc(current_q, log_pxz, epsilon, Burn, T, adapt, L)
+function [z, samples, extraOutputs] = hmc_vae(current_q, log_pxz, epsilon, Burn, T, adapt, L)
 
 [N n] = size(current_q);
 
